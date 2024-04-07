@@ -7,7 +7,7 @@ Hi, I'm a student on Valencia Polytechnic University, at the Data Science degree
 ```python
 about_dict = {
   code: [Python, R, SQL, MATLAB],
-  tools: [Jira, Neo4j, Cassandra, Microsoft Power BI, Tableau],
+  tools: [Git, Jira, Neo4j, Cassandra, Microsoft Power BI, Tableau, Docker],
   methodologies: [CrispDM, Scrum],
   soft skills: [Analytical Skills, Communication, Problem Solving, Teamwork]
 }
