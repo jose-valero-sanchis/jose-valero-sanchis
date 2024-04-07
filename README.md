@@ -2,7 +2,7 @@
 
 Hi, I'm a student on Valencia Polytechnic University, at the Data Science degree.
 
-### width="50"> A little more about me...  
+### A little more about me...  
 
 ```python
 about_dict = {
