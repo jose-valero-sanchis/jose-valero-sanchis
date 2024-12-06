@@ -16,7 +16,7 @@ about_dict = {
 ### Some of the projects I have worked on...
 
 - [Hand recognition](https://github.com/jose-valero-sanchis/hand-recognition). This project focuses on classifying hand positions through neural networks.
-- [Autextification](https://github.com/jose-valero-sanchis/autextification). This project aims to develop a robust AI detector for written texts in Iberian languages. I am still working on it.
+- [Autextification](https://github.com/jose-valero-sanchis/autextification). This project aims to develop a robust AI detector for written texts in Iberian languages.
 - [Analysis of YouTube subtitles](https://github.com/jose-valero-sanchis/Analysis-of-YouTube-subtitles). This project consists of a set of Python tools for web scraping YouTube channels, obtaining information and statistics about their videos, as well as analyzing the transcriptions of those videos to extract keywords and trends.
 - [Valenbisi](https://github.com/jose-valero-sanchis/valenbisi). In this project, an exhaustive analysis of the bicycle sharing system in the city of Valencia was carried out.
 - [More projects](https://www.linkedin.com/in/jose-valero-sanchis/details/projects/)
