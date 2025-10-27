@@ -6,11 +6,11 @@ Hi, I'm a Data Science graduate from the Universitat Politècnica de València (
 
 ```python
 about_dict = {
-  "programming_languages": ["Python", "Julia", "R", "MATLAB", "SQL"],
-  "machine_learning": ["scikit-learn", "PyTorch", "TensorFlow", "XGBoost", "MONAI", "PyRadiomics", "NEAT"],
-  "data_analysis": ["NumPy", "pandas"],
-  "visualization": ["Power BI", "Tableau", "matplotlib", "seaborn", "Plotly", "Streamlit", "Dash"],
-  "tools_environments": ["Jupyter Notebook", "VS Code", "Google Colab", "LaTeX", "Jira"],
+  programming_languages: [Python, Julia, R, MATLAB, SQL],
+  machine_learning: [scikit-learn, PyTorch, TensorFlow, XGBoost, MONAI, PyRadiomics, NEAT],
+  data_analysis: [NumPy, pandas],
+  visualization: [Power BI, Tableau, matplotlib, seaborn, Plotly, Streamlit, Dash],
+  tools_environments: [Jupyter Notebook, VS Code, Google Colab, LaTeX, Jira],
 }
 ```
 
