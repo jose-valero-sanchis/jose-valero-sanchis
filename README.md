@@ -1,32 +1,32 @@
-### Welcome to my page!👋
+### Hi there 👋
 
-Hi, I'm a Data Science graduate from the Universitat Politècnica de València (UPV).
+I'm Jose, an MSc student in Machine Learning for Health at Universidad Carlos III de Madrid (UC3M), with a BSc in Data Science from the Universitat Politècnica de València (UPV).
 
-### A little more about me...  
+I'm interested in **medical imaging** and **interpretable machine learning**: models that clinicians can understand and trust.
+
+### Selected projects
+
+- [**Prostate cancer severity classification with radiomics and deep learning**](https://github.com/jose-valero-sanchis/prostate_cancer_TFG). Bachelor's thesis, carried out with FISABIO. Compares radiomics and deep learning on multiparametric MRI (PI-CAI dataset), in terms of both performance and interpretability (SHAP, LIME, occlusion sensitivity).
+- [**Hand recognition**](https://github.com/jose-valero-sanchis/hand-recognition). Classification of hand positions with neural networks.
+- [**AuTexTification**](https://github.com/jose-valero-sanchis/autextification). Detection of AI-generated text in five Iberian languages and English.
+  
+### Tech stack
 
 ```python
-about_dict = {
-  programming_languages: [Python, Julia, R, MATLAB, SQL],
-  machine_learning: [scikit-learn, PyTorch, TensorFlow, XGBoost, MONAI, PyRadiomics, NEAT],
-  data_analysis: [NumPy, pandas],
-  visualization: [Power BI, Tableau, matplotlib, seaborn, Plotly, Streamlit, Dash],
-  tools_environments: [Jupyter Notebook, VS Code, Google Colab, LaTeX, Jira],
+about_me = {
+    "languages": ["Python", "Julia", "R", "MATLAB", "SQL"],
+    "ml_dl": ["PyTorch", "TensorFlow", "scikit-learn"],
+    "medical_imaging": ["MONAI", "PyRadiomics", "SimpleITK", "NiBabel"],
+    "data_viz": ["NumPy", "pandas", "matplotlib", "Plotly"],
+    "tools": ["Git", "Linux", "LaTeX", "Sphinx", "AWS"],
 }
 ```
 
-### Some of the projects I have worked on...
+### Outside work
 
-- [TFG – Prostate Cancer Classification with AI and mpMRI](https://github.com/jose-valero-sanchis/prostate_cancer_TFG). This project compares radiomics and deep learning approaches for classifying prostate cancer severity using multiparametric MRI images.
-- [Autextification](https://github.com/jose-valero-sanchis/autextification). This project aims to develop a robust AI detector for written texts in Iberian languages.
-- [Hand recognition](https://github.com/jose-valero-sanchis/hand-recognition). This project focuses on classifying hand positions through neural networks.
-- [Analysis of YouTube subtitles](https://github.com/jose-valero-sanchis/Analysis-of-YouTube-subtitles). This project consists of a set of Python tools for web scraping YouTube channels, obtaining information and statistics about their videos, as well as analyzing the transcriptions of those videos to extract keywords and trends.
-- [Valenbisi](https://github.com/jose-valero-sanchis/valenbisi). In this project, an exhaustive analysis of the bicycle sharing system in the city of Valencia was carried out.
-  
-### More about me
+I enjoy climbing, running and reading.
 
-In my free time, I enjoy running and going to the gym, and I’m passionate about reading and continuous learning.
-
-### Contact information
+### Contact
 
 - valerosanchisjose@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/jose-valero-sanchis)
